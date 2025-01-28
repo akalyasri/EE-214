@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/EE 214/project 12/project 12.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/EE 214/project 12/project 12.srcs/sim_1/new/P12_C1.v,1733939204,verilog,,,,SwitchBounceMeasurer_tb,,,,,,,,
+C:/EE 214/project 12/project 12.srcs/sources_1/new/P12_C1.v,1733939205,verilog,,C:/EE 214/project 12/project 12.srcs/sim_1/new/P12_C1.v,,SwitchBounceMeasurer,,,,,,,,
+C:/EE 214/project 12/project 12.srcs/sources_1/new/P12_R2.v,1733911313,verilog,,,,clock_divider;decimal_counter;seven_segment_display;state_machine;stopwatch,,,,,,,,

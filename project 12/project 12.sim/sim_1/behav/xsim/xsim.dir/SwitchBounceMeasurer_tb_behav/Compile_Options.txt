@@ -1,0 +1,1 @@
+-wto "4acfa92fb9ca43fa8248c461982cdb68" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "SwitchBounceMeasurer_tb_behav" "xil_defaultlib.SwitchBounceMeasurer_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
