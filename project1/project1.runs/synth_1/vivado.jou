@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Sep 11 15:45:37 2024
+# Process ID: 27192
+# Current directory: C:/EE 214/project1/project1.runs/synth_1
+# Command line: vivado.exe -log P1_R5.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source P1_R5.tcl
+# Log file: C:/EE 214/project1/project1.runs/synth_1/P1_R5.vds
+# Journal file: C:/EE 214/project1/project1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source P1_R5.tcl -notrace
