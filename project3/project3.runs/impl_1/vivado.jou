@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Sep 18 15:48:54 2024
+# Process ID: 14920
+# Current directory: C:/EE 214/project3/project3.runs/impl_1
+# Command line: vivado.exe -log P3_R1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source P3_R1.tcl -notrace
+# Log file: C:/EE 214/project3/project3.runs/impl_1/P3_R1.vdi
+# Journal file: C:/EE 214/project3/project3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source P3_R1.tcl -notrace
