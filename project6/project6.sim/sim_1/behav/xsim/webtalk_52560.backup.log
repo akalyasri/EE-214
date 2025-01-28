@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Oct 16 14:13:32 2024
+# Process ID: 52560
+# Current directory: C:/EE 214/project6/project6.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/EE 214/project6/project6.sim/sim_1/behav/xsim/xsim.dir/P6_R3_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/EE 214/project6/project6.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/EE 214/project6/project6.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/EE -notrace
+couldn't read file "C:/EE": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Wed Oct 16 14:13:32 2024...
