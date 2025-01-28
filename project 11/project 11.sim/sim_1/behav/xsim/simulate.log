@@ -1,0 +1,17 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Time	A	B	F	Cout
+10ns	0	0	0	0
+20ns	0	1	0	0
+25ns	0	1	1	0
+30ns	1	0	1	0
+40ns	1	1	1	0
+45ns	1	1	0	1
+50ns	1	1	0	0
+60ns	0	0	0	0
+70ns	0	1	0	0
+75ns	0	1	1	0
+80ns	1	0	1	0
+90ns	1	1	1	0
+95ns	1	1	0	1
+$finish called at time : 100 ns : File "C:/EE 214/project 11/project 11.srcs/sim_1/new/P11_R1_tb.v" Line 80
