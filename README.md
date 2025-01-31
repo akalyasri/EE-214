@@ -9,4 +9,4 @@ These materials are shared for educational purposes and reference only.
 
 Please _**refrain from copying**_ or using them dishonestly.  
 
-Learning by doing is the best way to succeed beyond your college career.
+
